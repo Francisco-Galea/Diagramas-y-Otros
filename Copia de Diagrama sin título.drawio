@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T18:45:25.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4rpmzchd8WrkdBCLh_Fp" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T19:33:31.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1Z-K-Rl0IK4IbP8mEj7H" version="24.2.2" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1050" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry y="78" width="180" height="2" as="geometry" />
         </mxCell>
         <mxCell id="8RnnDRSXlexf_g840mKL-20" value="Triangulo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="312.5" y="200" width="175" height="112" as="geometry" />
+          <mxGeometry x="312.5" y="168" width="175" height="112" as="geometry" />
         </mxCell>
         <mxCell id="8RnnDRSXlexf_g840mKL-21" value="- O ClasificacionFigura: Figura" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8RnnDRSXlexf_g840mKL-20" vertex="1">
           <mxGeometry y="26" width="175" height="26" as="geometry" />
@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="8RnnDRSXlexf_g840mKL-36" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.504;exitY=1.035;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="250.70000000000005" y="209.45999999999998" as="sourcePoint" />
-            <mxPoint x="250" y="270.55" as="targetPoint" />
+            <mxPoint x="400.20000000000005" y="280" as="sourcePoint" />
+            <mxPoint x="399.5" y="341.09000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8RnnDRSXlexf_g840mKL-37" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.006;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.497;exitY=1.143;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="8RnnDRSXlexf_g840mKL-16" target="8RnnDRSXlexf_g840mKL-35" edge="1">
@@ -178,7 +178,7 @@
             <mxPoint x="680" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="480" />
-              <mxPoint x="560" y="240" />
+              <mxPoint x="560" y="207" />
             </Array>
           </mxGeometry>
         </mxCell>
