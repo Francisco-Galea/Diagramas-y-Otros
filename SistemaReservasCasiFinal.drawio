@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2821" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2967" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-0" value="Usuario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-0" value="Usuario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="400" y="90" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-1" value="- UsuarioId: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-0" vertex="1">
@@ -264,10 +264,10 @@
             <mxPoint x="1170" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-85" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UsuarioController&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-85" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;UsuarioController&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="-200" width="320" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-86" value="- List&amp;lt;Usuario&amp;gt; Usuarios" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-85" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-86" value="- List&amp;lt;Usuario&amp;gt; Usuarios" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-85" vertex="1">
           <mxGeometry y="26" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-83" value="- UsuarioDAO: IUsuarioDao" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-85" vertex="1">
@@ -285,7 +285,7 @@
             <mxPoint x="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-94" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IUsuarioDao&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Insert(Usuario): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Update(Usuario): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetAll(): List&amp;lt;Usuario&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetById(int id): Usuario&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Delete(int id): void&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-94" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IUsuarioDao&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Insert(Usuario): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Update(Usuario): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetAll(): List&amp;lt;Usuario&amp;gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetById(int id): Usuario&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Delete(int id): void&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="-400" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-95" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m4PaVz9kTDVC2fhNwPpV-94" target="m4PaVz9kTDVC2fhNwPpV-85" edge="1">
@@ -294,7 +294,7 @@
             <mxPoint x="440" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-96" value="UsuarioDaoSQLSERVER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-96" value="UsuarioDaoSQLSERVER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="-639" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-97" value="+ Insert(Usuario): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-96" vertex="1">
@@ -312,7 +312,7 @@
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-101" value="+ Delete(int id): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-96" vertex="1">
           <mxGeometry y="130" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-102" value="UsuarioDaoJson" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-102" value="UsuarioDaoJson" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="-639" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-103" value="+ Insert(Usuario): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-102" vertex="1">
@@ -330,7 +330,7 @@
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-107" value="+ Delete(int id): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-102" vertex="1">
           <mxGeometry y="130" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-108" value="UsuarioDaoPostreSQL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-108" value="UsuarioDaoPostreSQL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="-639" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-109" value="+ Insert(Usuario): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-108" vertex="1">
@@ -371,6 +371,15 @@
             <mxPoint x="350" y="540" as="sourcePoint" />
             <mxPoint x="570" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qjLI-L57XUs-h8wpZ4Zj-1" value="El patron factory, es un patron creacional. Se utiliza cuando no sabes que objeto vas&amp;nbsp; a crear de antemano?&lt;div&gt;Es necesario hacer una validacion de un string que ingresa el usuario para saber que tipo de vehiculo va a crear?&amp;nbsp;&lt;/div&gt;&lt;div&gt;Por ejemplo, le pregunto al usuario que tipo de vehiculo va a crear, auto camion o moto.&lt;/div&gt;&lt;div&gt;En la controller paso todos los datos y consulto&lt;/div&gt;&lt;div&gt;If(camion) camionFactory&lt;/div&gt;&lt;div&gt;if(auto) AutoFactory&lt;/div&gt;&lt;div&gt;if(moto) MotoFactory&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Algo asi seria?&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="610" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qjLI-L57XUs-h8wpZ4Zj-2" value="Una vez tengo definido el tipo de vehiculo auto camion o moto, en la controladora de reserva puedo validar que tipo de objeto Vehiculo es, dependiendo de cual sea puedo redirigir y asignar esa estrategia a mi clase Reserva&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if(vehiculo is Auto){&lt;/div&gt;&lt;div&gt;Reserva reservaAuto = Reserva(usuario, vehiculo, horas reservadas, StrategyAuto)&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-413" y="-60" width="453" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qjLI-L57XUs-h8wpZ4Zj-3" value="UsuarioDao se define como una interfaz, para que despues cualquier cosa que gestione informacion, implemente esa interfaz y mmanipule los metodos a su funcionalidad" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="-400" width="360" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
