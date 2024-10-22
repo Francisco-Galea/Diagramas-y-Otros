@@ -112,16 +112,16 @@
           <mxGeometry x="480" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gEBNKpbAsEb5Gl5Xmfo--6" value="E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="1340" y="470" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gEBNKpbAsEb5Gl5Xmfo--7" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="1380" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gEBNKpbAsEb5Gl5Xmfo--8" value="H" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="840" width="60" height="30" as="geometry" />
+          <mxGeometry x="1360" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gEBNKpbAsEb5Gl5Xmfo--9" value="G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1694" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="1660" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gEBNKpbAsEb5Gl5Xmfo--10" value="I" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1930" y="590" width="60" height="30" as="geometry" />
