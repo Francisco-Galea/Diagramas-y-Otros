@@ -441,6 +441,15 @@
             <mxPoint x="450" y="643.89" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KkpCWhTDwwbORRxXn0EQ-98" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KkpCWhTDwwbORRxXn0EQ-99" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KkpCWhTDwwbORRxXn0EQ-100" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="591" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
