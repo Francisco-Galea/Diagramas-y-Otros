@@ -91,7 +91,7 @@
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-26" value="&lt;i&gt;ObjetoAlquilable&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="560" width="320" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="m4PaVz9kTDVC2fhNwPpV-27" value="- VehiculoId: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-26" vertex="1">
+        <mxCell id="m4PaVz9kTDVC2fhNwPpV-27" value="- ObjetoAlquilableId: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-26" vertex="1">
           <mxGeometry y="26" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m4PaVz9kTDVC2fhNwPpV-30" value="- Marca: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="m4PaVz9kTDVC2fhNwPpV-26" vertex="1">
