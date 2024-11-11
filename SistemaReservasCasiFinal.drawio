@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2713" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4301" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -395,12 +395,6 @@
             <mxPoint x="350" y="540" as="sourcePoint" />
             <mxPoint x="570" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qjLI-L57XUs-h8wpZ4Zj-1" value="El patron factory, es un patron creacional. Se utiliza cuando no sabes que objeto vas&amp;nbsp; a crear de antemano?&lt;div&gt;Es necesario hacer una validacion de un string que ingresa el usuario para saber que tipo de vehiculo va a crear?&amp;nbsp;&lt;/div&gt;&lt;div&gt;Por ejemplo, le pregunto al usuario que tipo de vehiculo va a crear, auto camion o moto.&lt;/div&gt;&lt;div&gt;En la controller paso todos los datos y consulto&lt;/div&gt;&lt;div&gt;If(camion) camionFactory&lt;/div&gt;&lt;div&gt;if(auto) AutoFactory&lt;/div&gt;&lt;div&gt;if(moto) MotoFactory&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Algo asi seria?&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="900" y="610" width="460" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="qjLI-L57XUs-h8wpZ4Zj-2" value="Una vez tengo definido el tipo de vehiculo auto camion o moto, en la controladora de reserva puedo validar que tipo de objeto Vehiculo es, dependiendo de cual sea puedo redirigir y asignar esa estrategia a mi clase Reserva&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if(vehiculo is Auto)&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;Reserva reservaAuto = Reserva(usuario, vehiculo, horas reservadas, StrategyAuto)&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-440" y="-60" width="480" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gw679d61oDOW8X4mK3xs-9" value="ReservaController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" width="320" height="216" as="geometry" />
