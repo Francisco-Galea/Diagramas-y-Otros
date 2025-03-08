@@ -560,13 +560,13 @@
             <mxPoint x="210" y="-580" as="sourcePoint" />
             <mxPoint x="370" y="-580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="-703" />
+              <mxPoint x="290" y="-583" />
               <mxPoint x="290" y="-486" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PpOj1krbx0FKZyaxwS8G-47" value="ClientDaoSQLSERVER" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="-880" width="310" height="190" as="geometry" />
+          <mxGeometry x="320" y="-760" width="310" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PpOj1krbx0FKZyaxwS8G-48" value="- oConnectionString: ConnectionString" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PpOj1krbx0FKZyaxwS8G-47">
           <mxGeometry y="26" width="310" height="26" as="geometry" />
