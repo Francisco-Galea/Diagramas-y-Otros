@@ -719,6 +719,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PpOj1krbx0FKZyaxwS8G-91" value="Este proceso se repite para:&lt;div&gt;Electronic&lt;/div&gt;&lt;div&gt;Property&lt;/div&gt;&lt;div&gt;Indumentary&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1840" y="1190" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PpOj1krbx0FKZyaxwS8G-92" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PpOj1krbx0FKZyaxwS8G-91">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1270" y="1390" as="sourcePoint" />
+            <mxPoint x="1690" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpOj1krbx0FKZyaxwS8G-93" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PpOj1krbx0FKZyaxwS8G-91">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1930" y="1060" as="sourcePoint" />
+            <mxPoint x="1960" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PpOj1krbx0FKZyaxwS8G-94" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PpOj1krbx0FKZyaxwS8G-91">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="2230" y="1210" as="sourcePoint" />
+            <mxPoint x="2230" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
