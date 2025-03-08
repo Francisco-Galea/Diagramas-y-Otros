@@ -590,7 +590,7 @@
           <mxGeometry y="164" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PpOj1krbx0FKZyaxwS8G-55" value="VehicleController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="850" width="1040" height="190" as="geometry" />
+          <mxGeometry x="710" y="840" width="1040" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PpOj1krbx0FKZyaxwS8G-56" value="- oIVehicleDao: IVehicleDao" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="PpOj1krbx0FKZyaxwS8G-55">
           <mxGeometry y="26" width="1040" height="26" as="geometry" />
