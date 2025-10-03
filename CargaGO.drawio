@@ -86,19 +86,19 @@
           <mxGeometry x="680" y="440" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VcXHkFr4Nlz7-vHa_DcG-35" value="Publicado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="270" width="200" height="52" as="geometry" />
+          <mxGeometry x="960" y="280" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcXHkFr4Nlz7-vHa_DcG-39" value="Aceptado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="360" width="200" height="52" as="geometry" />
+          <mxGeometry x="960" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcXHkFr4Nlz7-vHa_DcG-43" value="Cancelado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="440" width="200" height="52" as="geometry" />
+          <mxGeometry x="960" y="440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VcXHkFr4Nlz7-vHa_DcG-47" value="Iniciado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="556" width="200" height="52" as="geometry" />
+          <mxGeometry x="960" y="517" width="200" height="43" as="geometry" />
         </mxCell>
         <mxCell id="VcXHkFr4Nlz7-vHa_DcG-51" value="Finalizado" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="640" width="200" height="52" as="geometry" />
+          <mxGeometry x="960" y="600" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
