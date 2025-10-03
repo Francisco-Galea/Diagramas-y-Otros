@@ -137,7 +137,7 @@
           <mxGeometry y="156" width="280" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YaAG5Ql-t--1yIfFAcbW-18" value="Ubicacion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="400" width="160" height="78" as="geometry" />
+          <mxGeometry x="-40" y="480" width="160" height="78" as="geometry" />
         </mxCell>
         <mxCell id="YaAG5Ql-t--1yIfFAcbW-19" value="- Latitud: double" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="YaAG5Ql-t--1yIfFAcbW-18">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -261,6 +261,16 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="710" y="580" as="sourcePoint" />
             <mxPoint x="870" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YaAG5Ql-t--1yIfFAcbW-59" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VcXHkFr4Nlz7-vHa_DcG-24" target="YaAG5Ql-t--1yIfFAcbW-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="10" y="620" as="sourcePoint" />
+            <mxPoint x="170" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="769" />
+              <mxPoint x="200" y="545" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
