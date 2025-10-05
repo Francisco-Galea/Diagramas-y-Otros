@@ -311,7 +311,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tas_kO9cdN-ehAJKeSpH-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cosas para considerar:&lt;/h1&gt;&lt;p&gt;&amp;nbsp;- Servicio de mensajeria interno?&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Agregamos posibilidades de pagos?&lt;/p&gt;&lt;p&gt;- Sistema de reputacion con estrellas, referenciados o cantidad de pedidos realizados que permita elegir entre camioneros&lt;/p&gt;&lt;p&gt;- Aplicacion mobile y web. La web seria para las empresas o para quienes buscar ofrecer una carga&lt;/p&gt;&lt;p&gt;Se aceptan consejos&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tas_kO9cdN-ehAJKeSpH-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cosas para considerar:&lt;/h1&gt;&lt;p&gt;- Nombre de la App?&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Servicio de mensajeria interno?&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Agregamos posibilidades de pagos?&lt;/p&gt;&lt;p&gt;- Sistema de reputacion con estrellas, referenciados o cantidad de pedidos realizados que permita elegir entre camioneros&lt;/p&gt;&lt;p&gt;- Aplicacion mobile y web. La web seria para las empresas o para quienes buscar ofrecer una carga&lt;/p&gt;&lt;p&gt;Se aceptan consejos&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-480" y="160" width="180" height="360" as="geometry" />
         </mxCell>
       </root>
