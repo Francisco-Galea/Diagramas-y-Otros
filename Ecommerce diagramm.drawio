@@ -310,7 +310,7 @@
         <mxCell id="T05u5Hp0urP5435hUJuT-98" parent="T05u5Hp0urP5435hUJuT-91" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- PaymentMethod: IPaymentMethodStrategy" vertex="1">
           <mxGeometry height="26" width="280" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="T05u5Hp0urP5435hUJuT-157" parent="T05u5Hp0urP5435hUJuT-91" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- ShippingLocation: ????&amp;nbsp;" vertex="1">
+        <mxCell id="T05u5Hp0urP5435hUJuT-157" parent="T05u5Hp0urP5435hUJuT-91" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- ShippingLocation: CustomerAddress" vertex="1">
           <mxGeometry height="26" width="280" y="156" as="geometry" />
         </mxCell>
         <mxCell id="T05u5Hp0urP5435hUJuT-93" parent="T05u5Hp0urP5435hUJuT-91" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
